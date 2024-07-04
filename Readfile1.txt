@@ -1,0 +1,4 @@
+20-06-2024
+Hello everyone!
+I'm Varsha Rani. 
+I'm writing this file to test my logic of reading file via fs module
